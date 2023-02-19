@@ -1,6 +1,8 @@
 # ZoomIRL
 A TreeHacks 2023 Thing
 
+!()[https://imgur.com/bJj3LBj]
+
 ## Inspiration
 In March of 2020 a lot of very bad things happened including but not limited to a global pandemic. Some things have returned to a state of normalcy, but other little issues bug me to this very day. One of those issues that just itches me the wrong way every time I have to deal with it is Zoom calls. 
 
